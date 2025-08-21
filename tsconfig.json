@@ -5,6 +5,9 @@
   "references": [
     {
       "path": "./apps/mix-monorepo"
+    },
+    {
+      "path": "./shell"
     }
   ]
 }
