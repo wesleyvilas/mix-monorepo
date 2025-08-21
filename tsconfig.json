@@ -8,6 +8,9 @@
     },
     {
       "path": "./shell"
+    },
+    {
+      "path": "./packages"
     }
   ]
 }
